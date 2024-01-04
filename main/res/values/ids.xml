@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextName" type="id">10</item>
+    <item name="editTextAge" type="id">10</item>
+    <item name="spinnerGender" type="id">10</item>
+    <item name="spinnerDisease" type="id">30</item>
+    <item name="nextButton" type="id">30</item>
+    <item name="btnRegister" type="id" />
+</resources>
